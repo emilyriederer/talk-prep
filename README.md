@@ -40,6 +40,8 @@ Here are some possible calls to action for common types of R talks:
 - **case study** *(e.g. "how my company uses R")*: when teaching a / organizing b / hiring c / facing barrier d / etc., try tips x, y, and z
 - **data analysis**: you should consider using method x to solve problems like y *OR* when thinking about problem z, you should bear in mind the interesting insight q that I found
 
+This is not to say you cannot make more than one point. I've heard many successful talks along the lines of "five things to consider when designing an A/B test" or "three common mistakes when building random forests". Your aim is still to encourage your audience to think about a problem differently whenever they next encounter it.  
+
 ### Step 2: Shape the story
 
 Once you know the main point you want to make, your temptation may be to start working on your slides. Please don't. This temptation may be exacerbated by conference organizers asking for your slides ahead. Why not make the slides first and then you can always figure out what you want to say later, right? Please don't. 
