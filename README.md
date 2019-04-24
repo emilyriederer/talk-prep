@@ -145,6 +145,6 @@ Practice until you feel confident you know your story. Or until you're bored or 
 
 ### Step 6: Don't Overthink!
 
-I cannot emphasize enough the extent to which all of these steps are in no way necessary to give a successful talk. Everyone has their own process, so don't let any of this advice add makework to your process. Also don't stress out. Conference talks are not theatre; they are, at best, a genuine coming together of people eager to share ideas. The fact that you applied to speak because you have a story you want to tell means you're already a long way there. My intent is only to give process and structure to anyone looking for some traction and a good way to get started. 
+I cannot emphasize enough the extent to which all of these steps are in no way necessary to give a successful talk. Everyone has their own process, so don't let any of this advice add makework to your process. Also don't stress out. Conference talks are not theatre; they are, at best, a genuine coming together of people eager to share ideas. The fact that you applied to speak because you have a story you want to tell means you're already a long way there. My intent is only to give process and structure to anyone looking for some traction and a good way to get started.
 
 
